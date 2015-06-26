@@ -22,4 +22,6 @@
   <project remote="freescale_jb" revision="master" name="meta-fsl-demos" path="sources/meta-fsl-demos"/>
   <project remote="freescale" revision="master" name="Documentation" path="sources/Documentation"/>
 
+  <project remote="freescale_jb" revision="master" name="meta-qt5" path="sources/meta-qt5"/>
+
 </manifest>
